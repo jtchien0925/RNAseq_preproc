@@ -4,4 +4,6 @@
   
   2, Read [DEseq2 tutorial](https://www.bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.pdf)
   
+  3, Read more about ggplot
+  
 
